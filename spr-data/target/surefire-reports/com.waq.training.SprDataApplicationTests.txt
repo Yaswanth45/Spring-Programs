@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.waq.training.SprDataApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.862 s - in com.waq.training.SprDataApplicationTests
